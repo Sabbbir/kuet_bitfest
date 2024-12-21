@@ -1,0 +1,15 @@
+Recipe Name: Pancakes
+Ingredients: flour-200g, milk-300ml, egg-2pcs, sugar-50g
+Steps: Mix all ingredients in a bowl. Heat a pan. Cook the batter for 2 minutes on each side.
+Taste: Sweet
+Cuisine Type: American
+Preparation Time: 20 minutes
+Reviews: 4.5
+
+Recipe Name: Spaghetti Bolognese
+Ingredients: spaghetti-200g, ground beef-300g, tomato sauce-200ml, garlic-2 cloves
+Steps: Cook spaghetti. Prepare sauce with ground beef and tomato sauce. Combine and serve.
+Taste: Savory
+Cuisine Type: Italian
+Preparation Time: 30 minutes
+Reviews: 4.7
